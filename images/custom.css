@@ -1,0 +1,126 @@
+.downloadNow {
+	WIDTH: 747px
+}
+.index-splash {
+	WIDTH: 748px; MARGIN-BOTTOM: 10px; BACKGROUND: url(custom/index_splash.png) no-repeat left top; HEIGHT: 258px
+}
+.index-splash-content {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 32px; PADDING-RIGHT: 0px; PADDING-TOP: 142px
+}
+.downloadTr A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.downloadTr A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.downloadTr A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.downloadTr A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.indexBlock {
+	LINE-HEIGHT: 1.5em; MARGIN: 5px 0px; BACKGROUND: url(../images/round_arrow.png) no-repeat left top
+}
+.indexBlock3 {
+	LINE-HEIGHT: 25px; MARGIN: 5px 0px
+}
+.indexContent3 {
+	PADDING-LEFT: 38px
+}
+.indexContent4 {
+	PADDING-LEFT: 38px
+}
+.indexContent3 P {
+	FONT-SIZE: 14px
+}
+.indexContent4 H4 {
+	COLOR: #0270b7; FONT-SIZE: 12px; FONT-WEIGHT: 400
+}
+.indexContent4 SPAN {
+	COLOR: #0270b7; FONT-SIZE: 12px; FONT-WEIGHT: 400
+}
+.indexContent4 SPAN {
+	TEXT-DECORATION: underline
+}
+.vopen {
+	WIDTH: 100%; HEIGHT: auto; OVERFLOW: hidden; CURSOR: hand
+}
+.voff {
+	WIDTH: 100%; HEIGHT: auto; OVERFLOW: hidden; CURSOR: hand
+}
+.vopen {
+	HEIGHT: 25px
+}
+.indexContent {
+	PADDING-LEFT: 38px
+}
+.indexContent H4 {
+	COLOR: #0270b7
+}
+.sideBox {
+	BORDER-BOTTOM: #ececec 1px solid; BORDER-LEFT: #ececec 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 175%; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: #f6f6f6; BORDER-TOP: #ececec 1px solid; BORDER-RIGHT: #ececec 1px solid; PADDING-TOP: 10px
+}
+.feature-sub {
+	COLOR: #999999 !important; FONT-SIZE: 60%; FONT-WEIGHT: normal !important
+}
+.feature-block {
+	MARGIN-BOTTOM: 25px
+}
+.feature-block IMG.icon {
+	FLOAT: left
+}
+.feature-block H4 {
+	MARGIN-LEFT: 42px; MARGIN-RIGHT: 20px
+}
+.feature-block P {
+	MARGIN-LEFT: 42px; MARGIN-RIGHT: 20px
+}
+.feature-block H4 {
+	CURSOR: pointer; TEXT-DECORATION: underline
+}
+.download-info {
+	LINE-HEIGHT: 200%; MARGIN: 10px 0px; COLOR: #666666
+}
+.changelog-time {
+	FONT-SIZE: 85%; FONT-WEIGHT: normal
+}
+.lang-pack-table TD {
+	BORDER-TOP: #ececec 1px dotted
+}
+.faq-block {
+	
+}
+.faq-block H4 {
+	CURSOR: pointer; TEXT-DECORATION: underline
+}
+.faq-block DIV {
+	MARGIN-BOTTOM: 32px
+}
+.partner-list TD {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.partner-list IMG {
+	FLOAT: left; MARGIN-RIGHT: 15px
+}
+*.contact-box {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 10px; MARGIN: 0px 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: white; FLOAT: right; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 10px
+}
+.about-history {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 10px; MARGIN: 0px 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: white; FLOAT: right; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 10px
+}
+.quote-block {
+	MARGIN-BOTTOM: 20px
+}
+.quote-author {
+	TEXT-ALIGN: right; COLOR: #666666
+}
+.award-list TD {
+	TEXT-ALIGN: center
+}
+.sitemap UL {
+	FONT-WEIGHT: bold
+}
+.sitemap UL UL {
+	LIST-STYLE-TYPE: none; COLOR: #999999; FONT-WEIGHT: normal
+}
